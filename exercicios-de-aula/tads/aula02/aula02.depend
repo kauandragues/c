@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1773793844 source:e:\linguagem_de_programacao_1\aula02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1773795156 source:e:\linguagem_de_programacao_1\aula02\exe01.c
+	<stdio.h>
+	<stdlib.h>
+
+1773795692 source:e:\linguagem_de_programacao_1\aula02\exe02.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1773796178 source:e:\linguagem_de_programacao_1\aula02\exe03.c
+	<stdio.h>
+	<stdlib.h>
+
+1773796522 source:e:\linguagem_de_programacao_1\aula02\exe04.c
+	<stdio.h>
+	<stdlib.h>
+
+1773796922 source:e:\linguagem_de_programacao_1\aula02\exe05.c
+	<stdio.h>
+	<stdlib.h>
+
