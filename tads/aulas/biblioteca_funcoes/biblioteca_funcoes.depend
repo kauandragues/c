@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1774394849 source:/home/kauandragues/Documentos/repositorios/c/exercicios-de-aula/tads/biblioteca_funcoes/main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-
