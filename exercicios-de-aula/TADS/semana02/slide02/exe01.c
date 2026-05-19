@@ -3,7 +3,7 @@
 Aula 02 - 17/03/2026
 Aluno: github/kauandragues
 
-FaÃ§a um programa em C que leia um nÃºmero inteiro e retorne seu antecessor e seu sucessor.
+Faça um programa em C que leia um número inteiro e retorne seu antecessor e seu sucessor.
 */
 int main()
 {
